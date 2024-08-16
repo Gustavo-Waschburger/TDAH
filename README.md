@@ -17,12 +17,12 @@ Spring Web Web
 
  Foi testado usando o Postman criando um post com o seguinte endereço "http://localhost:8080/mongo/insert" e os dados conforme abaixo
 
- {
-    "show_id": 1,
-    "location": "Sampa",
-    "date": "2026-11-15",
-    "available_tickets": 16000
-}
+      {
+         "show_id": 1,
+         "location": "Sampa",
+         "date": "2026-11-15",
+         "available_tickets": 16000
+     }
 O teste para listar foi utilizado o seguinte endereço "http://localhost:8080/mongo/listar"
 
 
